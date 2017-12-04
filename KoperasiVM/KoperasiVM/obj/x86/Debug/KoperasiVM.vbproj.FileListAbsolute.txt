@@ -1,0 +1,154 @@
+C:\Users\Fitri\AppData\Local\Temporary Projects\KoperasiVM\obj\x86\Debug\KoperasiVM.Form1.resources
+C:\Users\Fitri\AppData\Local\Temporary Projects\KoperasiVM\obj\x86\Debug\KoperasiVM.Resources.resources
+C:\Users\Fitri\AppData\Local\Temporary Projects\KoperasiVM\obj\x86\Debug\KoperasiVM.vbproj.GenerateResource.Cache
+C:\Users\Fitri\AppData\Local\Temporary Projects\KoperasiVM\bin\Debug\KoperasiVM.exe
+C:\Users\Fitri\AppData\Local\Temporary Projects\KoperasiVM\bin\Debug\KoperasiVM.pdb
+C:\Users\Fitri\AppData\Local\Temporary Projects\KoperasiVM\bin\Debug\KoperasiVM.xml
+C:\Users\Fitri\AppData\Local\Temporary Projects\KoperasiVM\obj\x86\Debug\KoperasiVM.exe
+C:\Users\Fitri\AppData\Local\Temporary Projects\KoperasiVM\obj\x86\Debug\KoperasiVM.xml
+C:\Users\Fitri\AppData\Local\Temporary Projects\KoperasiVM\obj\x86\Debug\KoperasiVM.pdb
+E:\vincent_maestrro\Koperasi VM\KoperasiVM\KoperasiVM\bin\Debug\KoperasiVM.exe.config
+E:\vincent_maestrro\Koperasi VM\KoperasiVM\KoperasiVM\bin\Debug\KoperasiVM.exe
+E:\vincent_maestrro\Koperasi VM\KoperasiVM\KoperasiVM\bin\Debug\KoperasiVM.pdb
+E:\vincent_maestrro\Koperasi VM\KoperasiVM\KoperasiVM\bin\Debug\KoperasiVM.xml
+E:\vincent_maestrro\Koperasi VM\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Form1.resources
+E:\vincent_maestrro\Koperasi VM\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.LaporanTagihan.resources
+E:\vincent_maestrro\Koperasi VM\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Menu.resources
+E:\vincent_maestrro\Koperasi VM\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Resources.resources
+E:\vincent_maestrro\Koperasi VM\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Pinjaman.resources
+E:\vincent_maestrro\Koperasi VM\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Simpanan.resources
+E:\vincent_maestrro\Koperasi VM\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.TambahAnggota.resources
+E:\vincent_maestrro\Koperasi VM\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.vbproj.GenerateResource.Cache
+E:\vincent_maestrro\Koperasi VM\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.exe
+E:\vincent_maestrro\Koperasi VM\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.xml
+E:\vincent_maestrro\Koperasi VM\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.pdb
+E:\vincent_maestrro\Koperasi VM\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.PilihDB.resources
+E:\vincent_maestrro\Koperasi VM\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Form2.resources
+E:\vincent_maestrro\Koperasi VM\KoperasiVM\KoperasiVM\bin\Debug\KoperasiVM.exe.manifest
+E:\vincent_maestrro\Koperasi VM\KoperasiVM\KoperasiVM\bin\Debug\KoperasiVM.application
+E:\vincent_maestrro\Koperasi VM\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.exe.manifest
+E:\vincent_maestrro\Koperasi VM\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.application
+E:\vincent_maestrro\Koperasi VM\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Login.resources
+E:\vincent_maestrro\Koperasi VM\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Daftar_Pinjaman.resources
+E:\vincent_maestrro\Koperasi VM 2\KoperasiVM\KoperasiVM\bin\Debug\KoperasiVM.exe.config
+E:\vincent_maestrro\Koperasi VM 2\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.exe
+E:\vincent_maestrro\Koperasi VM 2\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.xml
+E:\vincent_maestrro\Koperasi VM 2\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.pdb
+E:\vincent_maestrro\Koperasi VM 2\KoperasiVM\KoperasiVM\bin\Debug\KoperasiVM.exe.manifest
+E:\vincent_maestrro\Koperasi VM 2\KoperasiVM\KoperasiVM\bin\Debug\KoperasiVM.application
+E:\vincent_maestrro\Koperasi VM 2\KoperasiVM\KoperasiVM\bin\Debug\KoperasiVM.exe
+E:\vincent_maestrro\Koperasi VM 2\KoperasiVM\KoperasiVM\bin\Debug\KoperasiVM.pdb
+E:\vincent_maestrro\Koperasi VM 2\KoperasiVM\KoperasiVM\bin\Debug\KoperasiVM.xml
+E:\vincent_maestrro\Koperasi VM 2\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Daftar_Pinjaman.resources
+E:\vincent_maestrro\Koperasi VM 2\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Form1.resources
+E:\vincent_maestrro\Koperasi VM 2\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Form2.resources
+E:\vincent_maestrro\Koperasi VM 2\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.LaporanTagihan.resources
+E:\vincent_maestrro\Koperasi VM 2\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Login.resources
+E:\vincent_maestrro\Koperasi VM 2\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Menu.resources
+E:\vincent_maestrro\Koperasi VM 2\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Resources.resources
+E:\vincent_maestrro\Koperasi VM 2\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.PilihDB.resources
+E:\vincent_maestrro\Koperasi VM 2\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Pinjaman.resources
+E:\vincent_maestrro\Koperasi VM 2\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Simpanan.resources
+E:\vincent_maestrro\Koperasi VM 2\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.TambahAnggota.resources
+E:\vincent_maestrro\Koperasi VM 2\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.vbproj.GenerateResource.Cache
+E:\vincent_maestrro\Koperasi VM 2\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.exe.manifest
+E:\vincent_maestrro\Koperasi VM 2\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.application
+E:\vincent_maestrro\Koperasi VM 2\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.DaftarAnggota.resources
+E:\vincent_maestrro\Koperasi VM 2\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Laporan.resources
+E:\vincent_maestrro\Koperasi VM3\KoperasiVM\KoperasiVM\bin\Debug\KoperasiVM.exe.config
+E:\vincent_maestrro\Koperasi VM3\KoperasiVM\KoperasiVM\bin\Debug\KoperasiVM.exe.manifest
+E:\vincent_maestrro\Koperasi VM3\KoperasiVM\KoperasiVM\bin\Debug\KoperasiVM.application
+E:\vincent_maestrro\Koperasi VM3\KoperasiVM\KoperasiVM\bin\Debug\KoperasiVM.exe
+E:\vincent_maestrro\Koperasi VM3\KoperasiVM\KoperasiVM\bin\Debug\KoperasiVM.pdb
+E:\vincent_maestrro\Koperasi VM3\KoperasiVM\KoperasiVM\bin\Debug\KoperasiVM.xml
+E:\vincent_maestrro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.DaftarAnggota.resources
+E:\vincent_maestrro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Daftar_Pinjaman.resources
+E:\vincent_maestrro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Form1.resources
+E:\vincent_maestrro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Form2.resources
+E:\vincent_maestrro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Laporan.resources
+E:\vincent_maestrro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.LaporanTagihan.resources
+E:\vincent_maestrro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Login.resources
+E:\vincent_maestrro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Menu.resources
+E:\vincent_maestrro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Resources.resources
+E:\vincent_maestrro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.PilihDB.resources
+E:\vincent_maestrro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Pinjaman.resources
+E:\vincent_maestrro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.PrintPreview.resources
+E:\vincent_maestrro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.SHU.resources
+E:\vincent_maestrro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.SimpananVMG.resources
+E:\vincent_maestrro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.TambahAnggota.resources
+E:\vincent_maestrro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.vbproj.GenerateResource.Cache
+E:\vincent_maestrro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\RdlCompile.cache
+E:\vincent_maestrro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\RdlCompile.compiled
+E:\vincent_maestrro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.exe.manifest
+E:\vincent_maestrro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.application
+E:\vincent_maestrro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.exe
+E:\vincent_maestrro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.xml
+E:\vincent_maestrro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.pdb
+E:\vincent_maestrro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.vbprojResolveAssemblyReference.cache
+E:\vincent_maestrro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.TutupBuku.resources
+E:\Kantor VM\Koperasi VM3\KoperasiVM\KoperasiVM\bin\Debug\KoperasiVM.exe.config
+E:\Kantor VM\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.exe
+E:\Kantor VM\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.xml
+E:\Kantor VM\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.pdb
+E:\Kantor VM\Koperasi VM3\KoperasiVM\KoperasiVM\bin\Debug\KoperasiVM.exe.manifest
+E:\Kantor VM\Koperasi VM3\KoperasiVM\KoperasiVM\bin\Debug\KoperasiVM.application
+E:\Kantor VM\Koperasi VM3\KoperasiVM\KoperasiVM\bin\Debug\KoperasiVM.exe
+E:\Kantor VM\Koperasi VM3\KoperasiVM\KoperasiVM\bin\Debug\KoperasiVM.pdb
+E:\Kantor VM\Koperasi VM3\KoperasiVM\KoperasiVM\bin\Debug\KoperasiVM.xml
+E:\Kantor VM\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.vbprojResolveAssemblyReference.cache
+E:\Kantor VM\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.DaftarAnggota.resources
+E:\Kantor VM\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Daftar_Pinjaman.resources
+E:\Kantor VM\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Form1.resources
+E:\Kantor VM\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Form2.resources
+E:\Kantor VM\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Laporan.resources
+E:\Kantor VM\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.LaporanTagihan.resources
+E:\Kantor VM\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Login.resources
+E:\Kantor VM\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Menu.resources
+E:\Kantor VM\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Resources.resources
+E:\Kantor VM\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.PilihDB.resources
+E:\Kantor VM\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Pinjaman.resources
+E:\Kantor VM\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.PrintPreview.resources
+E:\Kantor VM\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.SHU.resources
+E:\Kantor VM\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.SimpananVMG.resources
+E:\Kantor VM\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.TutupBuku.resources
+E:\Kantor VM\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.vbproj.GenerateResource.Cache
+E:\Kantor VM\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\RdlCompile.cache
+E:\Kantor VM\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\RdlCompile.compiled
+E:\Kantor VM\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.exe.manifest
+E:\Kantor VM\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.application
+E:\Kantor VM\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Rekap_Simpanan.resources
+E:\Kantor VM\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Laporan_Keuangan.resources
+E:\Kantor VM\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Peraturan.resources
+E:\Fitri.Office\Office.VincentMaestro\Koperasi VM3\KoperasiVM\KoperasiVM\bin\Debug\KoperasiVM.exe.config
+E:\Fitri.Office\Office.VincentMaestro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.exe
+E:\Fitri.Office\Office.VincentMaestro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.xml
+E:\Fitri.Office\Office.VincentMaestro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.pdb
+E:\Fitri.Office\Office.VincentMaestro\Koperasi VM3\KoperasiVM\KoperasiVM\bin\Debug\KoperasiVM.exe.manifest
+E:\Fitri.Office\Office.VincentMaestro\Koperasi VM3\KoperasiVM\KoperasiVM\bin\Debug\KoperasiVM.application
+E:\Fitri.Office\Office.VincentMaestro\Koperasi VM3\KoperasiVM\KoperasiVM\bin\Debug\KoperasiVM.exe
+E:\Fitri.Office\Office.VincentMaestro\Koperasi VM3\KoperasiVM\KoperasiVM\bin\Debug\KoperasiVM.pdb
+E:\Fitri.Office\Office.VincentMaestro\Koperasi VM3\KoperasiVM\KoperasiVM\bin\Debug\KoperasiVM.xml
+E:\Fitri.Office\Office.VincentMaestro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.vbprojResolveAssemblyReference.cache
+E:\Fitri.Office\Office.VincentMaestro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.DaftarAnggota.resources
+E:\Fitri.Office\Office.VincentMaestro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Daftar_Pinjaman.resources
+E:\Fitri.Office\Office.VincentMaestro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Form1.resources
+E:\Fitri.Office\Office.VincentMaestro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Form2.resources
+E:\Fitri.Office\Office.VincentMaestro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Laporan.resources
+E:\Fitri.Office\Office.VincentMaestro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.LaporanTagihan.resources
+E:\Fitri.Office\Office.VincentMaestro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Laporan_Keuangan.resources
+E:\Fitri.Office\Office.VincentMaestro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Login.resources
+E:\Fitri.Office\Office.VincentMaestro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Menu.resources
+E:\Fitri.Office\Office.VincentMaestro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Resources.resources
+E:\Fitri.Office\Office.VincentMaestro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Peraturan.resources
+E:\Fitri.Office\Office.VincentMaestro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.PilihDB.resources
+E:\Fitri.Office\Office.VincentMaestro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Pinjaman.resources
+E:\Fitri.Office\Office.VincentMaestro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.PrintPreview.resources
+E:\Fitri.Office\Office.VincentMaestro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.Rekap_Simpanan.resources
+E:\Fitri.Office\Office.VincentMaestro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.SHU.resources
+E:\Fitri.Office\Office.VincentMaestro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.SimpananVMG.resources
+E:\Fitri.Office\Office.VincentMaestro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.TutupBuku.resources
+E:\Fitri.Office\Office.VincentMaestro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.vbproj.GenerateResource.Cache
+E:\Fitri.Office\Office.VincentMaestro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\RdlCompile.cache
+E:\Fitri.Office\Office.VincentMaestro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\RdlCompile.compiled
+E:\Fitri.Office\Office.VincentMaestro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.exe.manifest
+E:\Fitri.Office\Office.VincentMaestro\Koperasi VM3\KoperasiVM\KoperasiVM\obj\x86\Debug\KoperasiVM.application

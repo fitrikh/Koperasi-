@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xrml="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <assemblyIdentity name="KoperasiVM.application" version="1.0.0.63" publicKeyToken="0f29d38037bd780f" language="neutral" processorArchitecture="x86" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <description asmv2:publisher="KoperasiVM" asmv2:product="KoperasiVM" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <deployment install="true" mapFileExtensions="true">
+    <subscription>
+      <update>
+        <beforeApplicationStartup />
+      </update>
+    </subscription>
+    <deploymentProvider codebase="file://192.168.0.3/All%20Program%20Installer/Koperasi/KoperasiVM.application" />
+  </deployment>
+  <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
+    <framework targetVersion="4.0" profile="Client" supportedRuntime="4.0.30319" />
+    <framework targetVersion="4.0" profile="Full" supportedRuntime="4.0.30319" />
+  </compatibleFrameworks>
+  <dependency>
+    <dependentAssembly dependencyType="install" codebase="Application Files\KoperasiVM_1_0_0_63\KoperasiVM.exe.manifest" size="11524">
+      <assemblyIdentity name="KoperasiVM.exe" version="1.0.0.63" publicKeyToken="0f29d38037bd780f" language="neutral" processorArchitecture="x86" type="win32" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>1Tf7TbXDjOc2LERjdz17/ENk7Mw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=handa-PC\handa" issuerKeyHash="76a2950f5612e0fb14b2296133faae9b805fdaca" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>zr1eoMfW2sktIdER3W4qqnjPrRQ=</DigestValue></Reference></SignedInfo><SignatureValue>dBE5WQd1/QPSMxaJjfGMpSstuYFjnEEE6xcrXHSq1Vs3PULUAZI6QdsOQF+PWZJAgXuJwi2WPgAqEVbtTx/fW/ZLzUJIzit2edaB/Ea/UU1Kgz5ySZDHgsAi31Tl8QhBKUbRrg4Y/b+Lw9T01XIzmdATsVtuvmQpfERmJJFQsRo=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>0fC9lU3Ex+TSvn/H6T8dLLoIP7BqZhkIoQh3OcQ9QC2D1gbW34Ze2rkPfpCZqUINxfv6d+aGjsyxjEd/3BU/Cgk39NAhp4EW+kvq4ePRIgia5uxFr2PVPbAvCFShoI77iZXDQ6Cx0PQRtnSacOIbBPk0Lf2Onnq9SZW/mbv4oI8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="14adcf78aa2a6edd11d1212dc9dad6c7a05ebdce" Description="" Url=""><as:assemblyIdentity name="KoperasiVM.application" version="1.0.0.63" publicKeyToken="0f29d38037bd780f" language="neutral" processorArchitecture="x86" xmlns="urn:schemas-microsoft-com:asm.v1" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=handa-PC\handa</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>nFWVdPmZt0EG4kGJW/C4qjO3ufA=</DigestValue></Reference></SignedInfo><SignatureValue>YdjVRI34PqVxPSE0NB4UCpduWRgW7A7jvr8U6FkUGecEHZ6TIBMTqDCcrSizs0aKVw0jp1BTmW2eargoXdLAF4pQ5IqosGPiacPk1ZACP0Eq/mGVRMN8s58fdvBQQVnyURQunb31nqyeIn5AKr6e1Bape/gONwd8XycFvzYr3fA=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>0fC9lU3Ex+TSvn/H6T8dLLoIP7BqZhkIoQh3OcQ9QC2D1gbW34Ze2rkPfpCZqUINxfv6d+aGjsyxjEd/3BU/Cgk39NAhp4EW+kvq4ePRIgia5uxFr2PVPbAvCFShoI77iZXDQ6Cx0PQRtnSacOIbBPk0Lf2Onnq9SZW/mbv4oI8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQEuRcfnDgQ5ZFq0pZk9SllDANBgkqhkiG9w0BAQUFADAnMSUwIwYDVQQDHhwAaABhAG4AZABhAC0AUABDAFwAaABhAG4AZABhMB4XDTE1MDczMDA5MTA1NFoXDTE2MDcyOTE1MTA1NFowJzElMCMGA1UEAx4cAGgAYQBuAGQAYQAtAFAAQwBcAGgAYQBuAGQAYTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA0fC9lU3Ex+TSvn/H6T8dLLoIP7BqZhkIoQh3OcQ9QC2D1gbW34Ze2rkPfpCZqUINxfv6d+aGjsyxjEd/3BU/Cgk39NAhp4EW+kvq4ePRIgia5uxFr2PVPbAvCFShoI77iZXDQ6Cx0PQRtnSacOIbBPk0Lf2Onnq9SZW/mbv4oI8CAwEAATANBgkqhkiG9w0BAQUFAAOBgQDOWLEE2rIPN4Ifc55xRUdhvJ8zJRv2zBYqe6cqEWWELd451skwVeJveX5pUDtYkMMpp475T1UIQYVEtcohyRGA5YTEnaHZKb8Ho57+MBSZZNzUVTof8La7ud5B+PEJQhZrEhgsenPibAXOucPGYO/FEYzxenjegGTaKBjInpRxFg==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
